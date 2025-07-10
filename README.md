@@ -40,7 +40,7 @@ Support languages:
 
 ---
 
-GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+GFWList URL（Github）：https://raw.githubusercontent.com/abusizhishen/gfwlist/master/gfwlist.txt
 
 **尽管 Github 有能力进行分发，但为了避免中断或连接问题，我们仍然建议使用以下任何 URL。**
 
