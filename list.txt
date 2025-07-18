@@ -29,7 +29,6 @@
 !--||adorama.com
 ||afreecatv.com
 ||agnesb.fr
-||*.iyf.tv
 ||airitilibrary.com
 ||abematv.akamaized.net
 ||linear-abematv.akamaized.net
